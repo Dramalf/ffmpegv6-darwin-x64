@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "files": [
+    "binary/*"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Dramalf/ffmpegv6-darwin-x64.git"
